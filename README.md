@@ -1,7 +1,7 @@
 
 # Welcome to My Profile!
 
-👋 Hello, fellow developers and creatives! I'm [Your Name], a full-stack web developer with a passion for all things frontend. While I have a strong foundation in web development, my heart truly belongs to the world of UI/UX design. 
+👋 Hello, fellow developers and creatives! I'm Katlego Motheohane, a full-stack web developer with a passion for all things frontend. While I have a strong foundation in web development, my heart truly belongs to the world of UI/UX design. 
 
 🎨 I've always been drawn to the creative side of technology, and that's why I'm on a journey to transition into the exciting realm of UI/UX. My fascination with user interfaces and user experiences has driven me to explore the world of design, where I can combine my technical skills with my love for aesthetics and usability.
 
